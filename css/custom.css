@@ -121,5 +121,10 @@ body.boxed-layout .main, body.boxed-layout .navbar {
 }
 .bg-white p{
     height: 150px;
-
+}
+a.anchor {
+    display: block;
+    position: relative;
+    top: -130px;
+    visibility: hidden;
 }
